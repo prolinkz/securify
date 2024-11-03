@@ -2,7 +2,7 @@
 WordPress Security Plugin
 
 ## Folder Structure
-wp-security-plugin/
+wp-security-plugin/ <br/>
 ├── wp-security-plugin.php       # Main Plugin File
 ├── includes/
 │   ├── class-security-enforcer.php    # Core Security Functions
