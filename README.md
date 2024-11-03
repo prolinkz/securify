@@ -1,0 +1,2 @@
+# securify
+WordPress Security Plugin
